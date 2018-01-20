@@ -1,0 +1,188 @@
+Copay Session Logs
+ Be careful, this could contain sensitive private data
+
+
+
+[2018-01-20T18:45:08.978Z][info]BitPay v3.13.0 #4bc7944
+[2018-01-20T18:45:08.978Z][info]Client: {"isAndroid":false,"isIOS":true,"isWP":false,"isSafari":false,"ua":"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/15B202","isCordova":true,"isMobile":true,"isDevel":false,"supportsTrezor":false,"versionIntelTEE":"","supportsIntelTEE":false}
+[2018-01-20T18:45:08.979Z][debug]Using: FileStorage
+[2018-01-20T18:45:09.029Z][info]Running head controller:BitPay
+[2018-01-20T18:45:09.039Z][debug]Route change from: -  to: starting
+[2018-01-20T18:45:09.039Z][debug]            toParams:{}
+[2018-01-20T18:45:09.039Z][debug]            fromParams:{}
+[2018-01-20T18:45:09.050Z][info]Init profile...
+[2018-01-20T18:45:09.121Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.124Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.126Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.127Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.127Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.131Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.131Z][debug]Got main dir: file:///var/mobile/Containers/Data/Application/5647AC6E-5F54-4E45-A413-1084B71AC0C7/Library/NoCloud/
+[2018-01-20T18:45:09.132Z][info]Adding Buy and Sell service:coinbase linked:false
+[2018-01-20T18:45:09.134Z][info]Adding NextSteps entry:amazon
+[2018-01-20T18:45:09.134Z][info]Adding NextSteps entry:shapeshift
+[2018-01-20T18:45:09.134Z][info]Adding NextSteps entry:bitpaycard
+[2018-01-20T18:45:09.136Z][info]Adding NextSteps entry:mercadoLibre
+[2018-01-20T18:45:09.147Z][info]Adding Buy and Sell service:glidera linked:true
+[2018-01-20T18:45:09.148Z][debug]Profile is not encrypted
+[2018-01-20T18:45:09.149Z][debug]Profile read
+[2018-01-20T18:45:09.163Z][debug]Preferences read: {"limits":{"totalCopayers":6,"mPlusN":100},"bws":{"url":"https://bws.bitpay.com/bws/api"},"download":{"bitpay":{"url":"https://bitpay.com/wallet"},"copay":{"url":"https://copay.io/#download"}},"rateApp":{"bitpay":{"ios":"http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1149581638&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8","android":"https://play.google.com/store/apps/details?id=com.bitpay.wallet","wp":""},"copay":{"ios":"http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=951330296&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8","android":"https://play.google.com/store/apps/details?id=com.bitpay.copay","wp":""}},"wallet":{"requiredCopayers":2,"totalCopayers":3,"spendUnconfirmed":false,"reconnectDelay":5000,"idleDurationMin":4,"settings":{"unitName":"BTC","unitToSatoshi":100000000,"unitDecimals":8,"unitCode":"btc","alternativeName":"Canadian Dollar","alternativeIsoCode":"CAD","feeLevel":"superEconomy"},"useLegacyAddress":false},"lock":{"method":null,"value":null,"bannedUntil":null},"recentTransactions":{"enabled":false},"hideNextSteps":{"enabled":false},"rates":{"url":"https://insight.bitpay.com:443/api/rates"},"release":{"url":"https://api.github.com/repos/bitpay/copay/releases/latest"},"pushNotificationsEnabled":true,"confirmedTxsNotifications":{"enabled":true},"emailNotifications":{"enabled":true,"email":"gofa.yusy@bk.ru"},"log":{"filter":"debug"},"emailFor":{},"touchIdFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":true},"colorFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":"#ff599e"},"bwsFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":"https://bws.bitpay.com/bws/api"},"aliasFor":{}}
+[2018-01-20T18:45:09.163Z][debug]Preferences read
+[2018-01-20T18:45:09.164Z][info]Binding wallet:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086 Validating?:false
+[2018-01-20T18:45:09.164Z][debug]Wallet + a3b7e3c3-dae2-421a-bbb6-bf8b7900c086 status:undefined
+[2018-01-20T18:45:09.165Z][info]Binding wallet:8c95d863-431c-42b2-8cd6-fbe5cec56437 Validating?:false
+[2018-01-20T18:45:09.166Z][debug]Wallet + 8c95d863-431c-42b2-8cd6-fbe5cec56437 status:undefined
+[2018-01-20T18:45:09.166Z][info]Bound 2 out of 2 wallets
+[2018-01-20T18:45:09.166Z][debug]Profile loaded ... Starting UX.
+[2018-01-20T18:45:09.166Z][debug]Trying to pre-initialize QRScanner.
+[2018-01-20T18:45:09.171Z][debug]Route change from: starting  to: tabs.home
+[2018-01-20T18:45:09.172Z][debug]            toParams:{"fromOnboarding":""}
+[2018-01-20T18:45:09.172Z][debug]            fromParams:{}
+[2018-01-20T18:45:09.324Z][debug]scannerService is reviewing platform capabilities...
+[2018-01-20T18:45:09.325Z][debug]A camera is available to this app.
+[2018-01-20T18:45:09.325Z][debug]Camera access is authorized.
+[2018-01-20T18:45:09.325Z][debug]Support for opening device settings is available on this platform.
+[2018-01-20T18:45:09.325Z][debug]A light is available on this platform.
+[2018-01-20T18:45:09.325Z][debug]A second camera is available on this platform.
+[2018-01-20T18:45:09.325Z][debug]Camera permission already granted.
+[2018-01-20T18:45:09.325Z][debug]Initializing scanner...
+[2018-01-20T18:45:09.326Z][debug]Setting default language: en
+[2018-01-20T18:45:09.437Z][debug]Updating Status: Personal Wallet null
+[2018-01-20T18:45:09.518Z][debug]Updating Status: Personal Wallet[BCH] null
+[2018-01-20T18:45:09.543Z][debug]Starting push notification registration...
+[2018-01-20T18:45:09.544Z][debug]startupService is showing the StatusBar...
+[2018-01-20T18:45:09.544Z][debug]startupService is hiding the splashscreen...
+[2018-01-20T18:45:09.578Z][debug]scannerService is reviewing platform capabilities...
+[2018-01-20T18:45:09.579Z][debug]A camera is available to this app.
+[2018-01-20T18:45:09.579Z][debug]Camera access is authorized.
+[2018-01-20T18:45:09.579Z][debug]Support for opening device settings is available on this platform.
+[2018-01-20T18:45:09.579Z][debug]A light is available on this platform.
+[2018-01-20T18:45:09.579Z][debug]A second camera is available on this platform.
+[2018-01-20T18:45:09.649Z][debug]Get token for push notifications: dcytnOxex9I:APA91bE_8Mz-gbIWKOlR61orE7PJ3A1C5CrRX4QA2zZQzVkQFKiZL7YwLeMU-tnwPhWDS16RSgCGhpLjiTVyyacsVNBktCh7TbL29cSnM7JLXTi5K87JQvjn4_QmFMbLk78pHGQltJEL
+[2018-01-20T18:45:10.061Z][debug]Status update. hash:0 Try:0
+[2018-01-20T18:45:10.062Z][debug]Got Wallet Status for:Personal Wallet
+[2018-01-20T18:45:10.072Z][debug]Writing: balanceCache-a3b7e3c3-dae2-421a-bbb6-bf8b7900c086 {"balance":"0.00 BTC","updatedOn":1516473910}
+[2018-01-20T18:45:10.148Z][debug]buyAndSell Service, updating nextSteps. linked/total: 1/2
+[2018-01-20T18:45:10.178Z][debug]Initializing openURL
+[2018-01-20T18:45:10.189Z][debug]Status update. hash:0 Try:0
+[2018-01-20T18:45:10.190Z][debug]Got Wallet Status for:Personal Wallet[BCH]
+[2018-01-20T18:45:10.244Z][debug]Writing: balanceCache-8c95d863-431c-42b2-8cd6-fbe5cec56437 {"balance":"0.00 BCH","updatedOn":1516473910}
+[2018-01-20T18:45:10.271Z][debug]Personal Wallet: Subscription Push Notifications success.
+[2018-01-20T18:45:10.272Z][debug]Personal Wallet[BCH]: Subscription Push Notifications success.
+[2018-01-20T18:45:13.179Z][debug]Route change from: tabs.home  to: tabs.settings
+[2018-01-20T18:45:13.180Z][debug]            toParams:{}
+[2018-01-20T18:45:13.180Z][debug]            fromParams:{"fromOnboarding":""}
+[2018-01-20T18:45:20.685Z][debug]Route change from: tabs.settings  to: tabs.preferences
+[2018-01-20T18:45:20.686Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:45:20.686Z][debug]            fromParams:{}
+[2018-01-20T18:45:23.413Z][debug]Route change from: tabs.preferences  to: tabs.preferences.preferencesAdvanced
+[2018-01-20T18:45:23.415Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:45:23.416Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:45:25.281Z][debug]Route change from: tabs.preferences.preferencesAdvanced  to: tabs.preferences.preferencesBwsUrl
+[2018-01-20T18:45:25.282Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:45:25.282Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:01.166Z][debug]Handle Resume @ openURL...
+[2018-01-20T18:46:03.089Z][debug]Route change from: tabs.preferences.preferencesBwsUrl  to: tabs.send
+[2018-01-20T18:46:03.090Z][debug]            toParams:{}
+[2018-01-20T18:46:03.090Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:03.232Z][debug]Wallet status cache hit:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:46:03.247Z][debug]Wallet status cache hit:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:46:04.287Z][debug]Route change from: tabs.send  to: tabs.home
+[2018-01-20T18:46:04.287Z][debug]            toParams:{"fromOnboarding":""}
+[2018-01-20T18:46:04.287Z][debug]            fromParams:{}
+[2018-01-20T18:46:04.302Z][debug]Route change from: tabs.home  to: tabs.buyandsell
+[2018-01-20T18:46:04.303Z][debug]            toParams:{}
+[2018-01-20T18:46:04.303Z][debug]            fromParams:{"fromOnboarding":""}
+[2018-01-20T18:46:06.156Z][debug]Route change from: tabs.buyandsell  to: tabs.home
+[2018-01-20T18:46:06.157Z][debug]            toParams:{"fromOnboarding":""}
+[2018-01-20T18:46:06.157Z][debug]            fromParams:{}
+[2018-01-20T18:46:06.527Z][debug]Wallet status cache hit:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:46:06.530Z][debug]Wallet status cache hit:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:46:06.594Z][debug]Writing: balanceCache-a3b7e3c3-dae2-421a-bbb6-bf8b7900c086 {"balance":"0.00 BTC","updatedOn":1516473966}
+[2018-01-20T18:46:06.595Z][debug]Writing: balanceCache-8c95d863-431c-42b2-8cd6-fbe5cec56437 {"balance":"0.00 BCH","updatedOn":1516473966}
+[2018-01-20T18:46:08.437Z][debug]Route change from: tabs.home  to: tabs.send
+[2018-01-20T18:46:08.438Z][debug]            toParams:{}
+[2018-01-20T18:46:08.438Z][debug]            fromParams:{"fromOnboarding":""}
+[2018-01-20T18:46:08.523Z][debug]Wallet status cache hit:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:46:08.526Z][debug]Wallet status cache hit:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:46:09.093Z][debug]Route change from: tabs.send  to: tabs.preferences.preferencesBwsUrl
+[2018-01-20T18:46:09.095Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:09.095Z][debug]            fromParams:{}
+[2018-01-20T18:46:09.650Z][debug]Route change from: tabs.preferences.preferencesBwsUrl  to: tabs.send
+[2018-01-20T18:46:09.651Z][debug]            toParams:{}
+[2018-01-20T18:46:09.651Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:09.777Z][debug]Wallet status cache hit:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:46:09.791Z][debug]Wallet status cache hit:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:46:12.073Z][debug]Route change from: tabs.send  to: tabs.home
+[2018-01-20T18:46:12.074Z][debug]            toParams:{"fromOnboarding":""}
+[2018-01-20T18:46:12.076Z][debug]            fromParams:{}
+[2018-01-20T18:46:12.103Z][debug]Route change from: tabs.home  to: tabs.buyandsell
+[2018-01-20T18:46:12.103Z][debug]            toParams:{}
+[2018-01-20T18:46:12.104Z][debug]            fromParams:{"fromOnboarding":""}
+[2018-01-20T18:46:18.570Z][debug]Route change from: tabs.buyandsell  to: tabs.home
+[2018-01-20T18:46:18.570Z][debug]            toParams:{"fromOnboarding":""}
+[2018-01-20T18:46:18.571Z][debug]            fromParams:{}
+[2018-01-20T18:46:18.937Z][debug]Wallet status cache hit:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:46:18.939Z][debug]Wallet status cache hit:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:46:19.014Z][debug]Writing: balanceCache-a3b7e3c3-dae2-421a-bbb6-bf8b7900c086 {"balance":"0.00 BTC","updatedOn":1516473978}
+[2018-01-20T18:46:19.015Z][debug]Writing: balanceCache-8c95d863-431c-42b2-8cd6-fbe5cec56437 {"balance":"0.00 BCH","updatedOn":1516473978}
+[2018-01-20T18:46:22.027Z][debug]Route change from: tabs.home  to: tabs.preferences.preferencesBwsUrl
+[2018-01-20T18:46:22.028Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:22.029Z][debug]            fromParams:{"fromOnboarding":""}
+[2018-01-20T18:46:23.160Z][debug]Route change from: tabs.preferences.preferencesBwsUrl  to: tabs.home
+[2018-01-20T18:46:23.160Z][debug]            toParams:{"fromOnboarding":""}
+[2018-01-20T18:46:23.160Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:23.235Z][debug]Wallet status cache hit:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:46:23.236Z][debug]Wallet status cache hit:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:46:23.298Z][debug]Writing: balanceCache-a3b7e3c3-dae2-421a-bbb6-bf8b7900c086 {"balance":"0.00 BTC","updatedOn":1516473983}
+[2018-01-20T18:46:23.298Z][debug]Writing: balanceCache-8c95d863-431c-42b2-8cd6-fbe5cec56437 {"balance":"0.00 BCH","updatedOn":1516473983}
+[2018-01-20T18:46:24.235Z][debug]Route change from: tabs.home  to: tabs.preferences.preferencesBwsUrl
+[2018-01-20T18:46:24.235Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:24.235Z][debug]            fromParams:{"fromOnboarding":""}
+[2018-01-20T18:46:26.554Z][debug]Route change from: tabs.preferences.preferencesBwsUrl  to: tabs.preferences.preferencesAdvanced
+[2018-01-20T18:46:26.554Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:26.555Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:34.263Z][debug]Route change from: tabs.preferences.preferencesAdvanced  to: tabs.preferences.information
+[2018-01-20T18:46:34.263Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:34.265Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:57.280Z][debug]Route change from: tabs.preferences.information  to: tabs.preferences.preferencesAdvanced
+[2018-01-20T18:46:57.281Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:57.281Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:58.969Z][debug]Route change from: tabs.preferences.preferencesAdvanced  to: tabs.preferences.export
+[2018-01-20T18:46:58.969Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:46:58.970Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:47:01.426Z][debug]Route change from: tabs.preferences.export  to: tabs.preferences.preferencesAdvanced
+[2018-01-20T18:47:01.426Z][debug]            toParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:47:01.426Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:47:17.487Z][debug]Handle Resume @ openURL...
+[2018-01-20T18:47:18.254Z][debug]BWC Notification: {"version":"1.0.0","createdOn":1516474032,"id":"015164740329610000","type":"NewBlock","data":{"hash":"0000000000000000016eb2b35a1330b4f0f1941739646b6e71d86373fb413175","coin":"bch","network":"livenet"},"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086","creatorId":null}
+[2018-01-20T18:47:18.257Z][debug]Updating wallet:Personal Wallet
+[2018-01-20T18:47:18.257Z][debug]Updating Status: Personal Wallet null
+[2018-01-20T18:47:18.565Z][debug]Updating wallet:Personal Wallet
+[2018-01-20T18:47:18.565Z][debug]Updating Status: Personal Wallet null
+[2018-01-20T18:47:18.659Z][debug]BWC Notification: {"version":"1.0.0","createdOn":1516474032,"id":"015164740329610000","type":"NewBlock","data":{"hash":"0000000000000000016eb2b35a1330b4f0f1941739646b6e71d86373fb413175","coin":"bch","network":"livenet"},"walletId":"8c95d863-431c-42b2-8cd6-fbe5cec56437","creatorId":null}
+[2018-01-20T18:47:18.660Z][debug]Updating wallet:Personal Wallet[BCH]
+[2018-01-20T18:47:18.660Z][debug]Updating Status: Personal Wallet[BCH] null
+[2018-01-20T18:47:18.734Z][debug]Updating wallet:Personal Wallet[BCH]
+[2018-01-20T18:47:18.734Z][debug]Updating Status: Personal Wallet[BCH] null
+[2018-01-20T18:47:19.302Z][debug]Status update. hash:0 Try:0
+[2018-01-20T18:47:19.302Z][debug]Got Wallet Status for:Personal Wallet[BCH]
+[2018-01-20T18:47:19.435Z][debug]Status update. hash:0 Try:0
+[2018-01-20T18:47:19.437Z][debug]Got Wallet Status for:Personal Wallet[BCH]
+[2018-01-20T18:47:19.656Z][debug]Route change from: tabs.preferences.preferencesAdvanced  to: tabs.settings
+[2018-01-20T18:47:19.656Z][debug]            toParams:{}
+[2018-01-20T18:47:19.657Z][debug]            fromParams:{"walletId":"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086"}
+[2018-01-20T18:47:20.153Z][debug]Status update. hash:0 Try:0
+[2018-01-20T18:47:20.153Z][debug]Got Wallet Status for:Personal Wallet
+[2018-01-20T18:47:21.089Z][debug]Status update. hash:0 Try:0
+[2018-01-20T18:47:21.090Z][debug]Got Wallet Status for:Personal Wallet
+[2018-01-20T18:47:22.041Z][debug]Route change from: tabs.settings  to: tabs.about
+[2018-01-20T18:47:22.042Z][debug]            toParams:{}
+[2018-01-20T18:47:22.042Z][debug]            fromParams:{}
+[2018-01-20T18:47:25.833Z][debug]Route change from: tabs.about  to: tabs.about.logs
+[2018-01-20T18:47:25.834Z][debug]            toParams:{}
+[2018-01-20T18:47:25.834Z][debug]            fromParams:{}
+[2018-01-20T18:47:26.508Z][debug]Updating settings for wallet:a3b7e3c3-dae2-421a-bbb6-bf8b7900c086
+[2018-01-20T18:47:26.509Z][debug]Updating settings for wallet:8c95d863-431c-42b2-8cd6-fbe5cec56437
+[2018-01-20T18:47:26.510Z][debug]Storing Preferences {"limits":{"totalCopayers":6,"mPlusN":100},"bws":{"url":"https://bws.bitpay.com/bws/api"},"download":{"bitpay":{"url":"https://bitpay.com/wallet"},"copay":{"url":"https://copay.io/#download"}},"rateApp":{"bitpay":{"ios":"http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1149581638&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8","android":"https://play.google.com/store/apps/details?id=com.bitpay.wallet","wp":""},"copay":{"ios":"http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=951330296&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8","android":"https://play.google.com/store/apps/details?id=com.bitpay.copay","wp":""}},"wallet":{"requiredCopayers":2,"totalCopayers":3,"spendUnconfirmed":false,"reconnectDelay":5000,"idleDurationMin":4,"settings":{"unitName":"BTC","unitToSatoshi":100000000,"unitDecimals":8,"unitCode":"btc","alternativeName":"Canadian Dollar","alternativeIsoCode":"CAD","feeLevel":"superEconomy"},"useLegacyAddress":false},"lock":{"method":null,"value":null,"bannedUntil":null},"recentTransactions":{"enabled":false},"hideNextSteps":{"enabled":false},"rates":{"url":"https://insight.bitpay.com:443/api/rates"},"release":{"url":"https://api.github.com/repos/bitpay/copay/releases/latest"},"pushNotificationsEnabled":true,"confirmedTxsNotifications":{"enabled":true},"emailNotifications":{"enabled":true,"email":"gofa.yusy@bk.ru"},"log":{"filter":"debug"},"emailFor":null,"touchIdFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":true},"colorFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":"#ff599e"},"bwsFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":"https://bws.bitpay.com/bws/api"}}
+[2018-01-20T18:47:26.549Z][debug]Writing: config {"limits":{"totalCopayers":6,"mPlusN":100},"bws":{"url":"https://bws.bitpay.com/bws/api"},"download":{"bitpay":{"url":"https://bitpay.com/wallet"},"copay":{"url":"https://copay.io/#download"}},"rateApp":{"bitpay":{"ios":"http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1149581638&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8","android":"https://play.google.com/store/apps/details?id=com.bitpay.wallet","wp":""},"copay":{"ios":"http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=951330296&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8","android":"https://play.google.com/store/apps/details?id=com.bitpay.copay","wp":""}},"wallet":{"requiredCopayers":2,"totalCopayers":3,"spendUnconfirmed":false,"reconnectDelay":5000,"idleDurationMin":4,"settings":{"unitName":"BTC","unitToSatoshi":100000000,"unitDecimals":8,"unitCode":"btc","alternativeName":"Canadian Dollar","alternativeIsoCode":"CAD","feeLevel":"superEconomy"},"useLegacyAddress":false},"lock":{"method":null,"value":null,"bannedUntil":null},"recentTransactions":{"enabled":false},"hideNextSteps":{"enabled":false},"rates":{"url":"https://insight.bitpay.com:443/api/rates"},"release":{"url":"https://api.github.com/repos/bitpay/copay/releases/latest"},"pushNotificationsEnabled":true,"confirmedTxsNotifications":{"enabled":true},"emailNotifications":{"enabled":true,"email":"gofa.yusy@bk.ru"},"log":{"filter":"debug"},"emailFor":null,"touchIdFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":true},"colorFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":"#ff599e"},"bwsFor":{"a3b7e3c3-dae2-421a-bbb6-bf8b7900c086":"https://bws.bitpay.com/bws/api"}}
